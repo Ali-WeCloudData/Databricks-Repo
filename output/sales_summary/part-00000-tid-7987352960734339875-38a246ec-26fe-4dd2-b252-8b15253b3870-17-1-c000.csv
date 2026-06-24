@@ -1,0 +1,5 @@
+salesman_id,total_orders,total_revenue,avg_order_value
+5001,3,11206.2,3735.4
+5003,1,2480.4,2480.4
+5006,1,1983.43,1983.43
+5002,1,948.5,948.5
